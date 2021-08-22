@@ -77,12 +77,12 @@
                 </div>
                 <div class="our-partners-item">
                     <div class="our-partners-img">
-                        <img src="./assets/logo2.png" alt="">
+                        <img src="./assets/download.jpg" alt="">
                     </div>
                 </div>
                 <div class="our-partners-item">
                     <div class="our-partners-img">
-                        <img src="./assets/logo3.png" alt="">
+                        <img src="./assets/Capture3.JPG" alt="">
                     </div>
                 </div>
             </div>
@@ -108,19 +108,16 @@
                     <div>
                         <h2>Visit office</h2>
                         <p class="text">
-                            House no 14, Behind Godown, Indira Ward, Etapalli-442704
-                        </p>
-                    </div>
-                    <div>
-                        <h2>Call Us</h2>
-                        <p class="text">
-                           193-124454145
+                            Suite 4, Level 6 
+ Berkeley Square House 
+ Berkeley Square, Mayfair 
+ W1J 6BY, UK
                         </p>
                     </div>
                     <div>
                         <h2>Send Email</h2>
                         <p class="text">
-                            abc@gmail.com
+                            mj@nwt.realestate
                         </p>
                     </div>
                 </div>
@@ -131,7 +128,7 @@
     <!--Footer-->
     <footer class="footer center">
         <div class="container">
-            <p class="text">Copyright &copy; Designed by A@Digvijay | All Rights Reserved</p>
+            <p class="text">Copyright &copy; | All Rights Reserved</p>
             <div class="footer-links">
                 <a href="#" class="center">
                     <i class="fab fa-facebook-f"></i>
