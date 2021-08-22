@@ -180,26 +180,28 @@ h1,h2,h3,h4,h5,h6{
     color: #fff;
 }
 
+.our-partners{
+    background-color: var(--black);
+    opacity: 0.9;
+}
 
 .our-partners .title h2,
 .our-partners .title{
-    color:var(--night-rider);
+    color:var(--white-smoke);
     text-align: center;
     font-size: 3rem;
+    margin-top: 0;
 }
 
 
 .our-partners-img{
-    border: 4px solid #fff;
     width: 300px;
     height: 175px;
-    border-radius: 10%;
     margin: 2.5rem auto;
     padding: 0.5rem;
 }
 
 .our-partners-img img{
-    border-radius: 10%;
     height: 150px;
 }
 
@@ -208,11 +210,16 @@ h1,h2,h3,h4,h5,h6{
 }
 
 /* Contact */
-.contact .title{
-    margin-top: 3rem;
+.contact{
+    background-color: var(--black);
+    opacity: 0.9;
+}
+.contact .title h2{
+    margin-top: 0;
     text-align: center;
     font-weight: 500;
-    font-size: 2rem;
+    font-size: 3rem;
+    color: #fff;
 }
 .contact .row{
     margin-top: 2rem;
@@ -227,6 +234,7 @@ h1,h2,h3,h4,h5,h6{
     font-size: 1.4rem;
     font-weight: 300;
     opacity: 0.9;
+    color: #fff;
 }
 
 .contact-left form input,
@@ -238,6 +246,7 @@ h1,h2,h3,h4,h5,h6{
     border: none;
     border-bottom: 1.5px solid #f0f0f0;
     outline: 0;
+    background: transparent;
 }
 
 .contact-left form input::placeholder,
@@ -245,6 +254,7 @@ h1,h2,h3,h4,h5,h6{
     font-size: 1.1rem;
     font-weight: 300;
     opacity: 0.8;
+    color: #fff;
 }
 
 .contact-left form input:focus,
@@ -265,11 +275,16 @@ h1,h2,h3,h4,h5,h6{
 }
 
 .submit-btn:hover{
-    background: var(--black);
+    background: var(--white-smoke);
+    color: var(--black);
 }
 
 .contact-right{
     margin: 2rem 0;
+}
+
+.contact-right p{
+    color: #fff;
 }
 
 /* footer */
@@ -308,6 +323,12 @@ h1,h2,h3,h4,h5,h6{
 
 /*  Media */
 
+@media  screen and (min-width:500px) {
+    .btn-white{
+        justify-content: center;
+    }
+    
+}
 @media screen and (min-width: 768px){
     .contact .row{
         display: grid;
