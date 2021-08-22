@@ -53,7 +53,7 @@
         </nav>
 
         <div class="hero-div center container">
-            <h1>welcome to <img src="./assets//logo.png"  class="logo-img">nwt sports</h1>
+            <h1>welcome to <img src="./assets//logo.png"  class="logo-img">NWT sports</h1>
             <p>We guarantee you the best experience here</p>
 
             <div class="hero-btns">
