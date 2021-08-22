@@ -31,7 +31,7 @@
             <div class="container">
                 <div class="brand-and-toggler">
                     <img src="./assets/logo.png" class="logo">
-                    <a href="./index.php" class="navbar-brand">NWT Sports</a>
+                    <a href="./index.php" class="navbar-brand"> NWT Sports</a>
                     <button type="button" class="navbar-toggler" id="navbar-toggler"><i class="fas fa-bars"></i></button>
                 </div>
                 <div class="navbar-collapse">
@@ -53,7 +53,7 @@
         </nav>
 
         <div class="hero-div center container">
-            <h1>welcome to nwt sports</h1>
+            <h1>welcome to <img src="./assets//logo.png"  class="logo-img">nwt sports</h1>
             <p>We guarantee you the best experience here</p>
 
             <div class="hero-btns">
