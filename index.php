@@ -19,7 +19,7 @@
     <link rel="stylesheet" href="./resources/OwlCarousel2-2.3.4/dist/assets/owl.theme.default.css">
 
     <!--Logo-->
-    <link rel="shortcut icon" href="./assets/logo.png">
+    <link rel="shortcut icon" href="./assets/logo.jpg">
 
     <!--Custom css-->
     <link rel="stylesheet" href="./css/main.css">
@@ -30,7 +30,7 @@
         <nav class="navbar">
             <div class="container">
                 <div class="brand-and-toggler">
-                    <img src="./assets/logo.png" class="logo">
+                    <img src="./assets/logo.jpg" class="logo">
                     <a href="./index.php" class="navbar-brand"> NWT Sports</a>
                     <button type="button" class="navbar-toggler" id="navbar-toggler"><i class="fas fa-bars"></i></button>
                 </div>
@@ -39,9 +39,6 @@
 
                         <li class="nav-item">
                             <a href="#intro" class="nav-link">home</a>
-                        </li>
-                        <li class="nav-item">
-                            <a href="#our-partners" class="nav-link">our partners</a>
                         </li>
                         <li class="nav-item">
                             <a href="#contact-us" class="nav-link">contact us</a>
@@ -53,41 +50,19 @@
         </nav>
 
         <div class="hero-div center container">
-            <h1>welcome to <img src="./assets//logo.png"  class="logo-img">NWT sports</h1>
-            <p>We guarantee you the best experience here</p>
 
+            <div class="logo-img">
+                <img src="./assets/logo.jpg" alt="">
+            </div>
             <div class="hero-btns">
-                <a href="#our-partners"><button type="button" class="btn-trans">our partners</button></a>
+                <a href="#our-partners"><button type="button" class="btn-trans">learn more</button></a>
                 <a href="#contact-us"><button type="button" class="btn-white">contact us</button></a>
             </div>
         </div>
         
     </header>
     <!--End of Header-->
-    <section class="our-partners" id="our-partners">
-        <div class="container">
-            <div class="title">
-                <h2>Our Partners</h2>
-            </div>
-            <div class="row owl-carousel owl-theme">
-                <div class="our-partners-item">
-                    <div class="our-partners-img">
-                        <img src="./assets/logo1.png" alt="">
-                    </div>
-                </div>
-                <div class="our-partners-item">
-                    <div class="our-partners-img">
-                        <img src="./assets/download.png" alt="">
-                    </div>
-                </div>
-                <div class="our-partners-item">
-                    <div class="our-partners-img">
-                        <img src="./assets/logo3.png" alt="">
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
+    
 
     <section class="contact" id="contact-us">
         <div class="container">
