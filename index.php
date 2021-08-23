@@ -72,17 +72,17 @@
             <div class="row owl-carousel owl-theme">
                 <div class="our-partners-item">
                     <div class="our-partners-img">
-                        <img src="./assets/logo1.jpg" alt="">
+                        <img src="./assets/logo1.png" alt="">
                     </div>
                 </div>
                 <div class="our-partners-item">
                     <div class="our-partners-img">
-                        <img src="./assets/download.jpg" alt="">
+                        <img src="./assets/download.png" alt="">
                     </div>
                 </div>
                 <div class="our-partners-item">
                     <div class="our-partners-img">
-                        <img src="./assets/Capture3.JPG" alt="">
+                        <img src="./assets/logo3.png" alt="">
                     </div>
                 </div>
             </div>
